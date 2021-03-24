@@ -42,8 +42,8 @@ const features = [
         <p>
           <Translate>
             The Application abstraction is implemented with server-side encapsulation controller
-          (supports </Translate><a href="https://github.com/cuelang/cue">CUELang</a> <Translate>and</Translate>
-           <a href="https://helm.sh/">Helm</a>
+          (supports </Translate><a href="https://github.com/cuelang/cue">CUELang</a> <Translate>and </Translate>
+           <a href="https://helm.sh/">Helm</a> 
            <Translate>
            as templating engine) to abstract user-facing primitives from Kubernetes API resources.
            Changes to existing capability templates (or new templates added) take effect at runtime,
