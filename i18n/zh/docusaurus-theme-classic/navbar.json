@@ -1,15 +1,11 @@
 {
   "title": {
-    "message": "Kubectl Pod Lens",
+    "message": "KubeVela",
     "description": "The title in the navbar"
   },
   "item.label.Documentation": {
     "message": "文档",
     "description": "Navbar item with label Documentation"
-  },
-  "item.label.GitHub": {
-    "message": "GitHub",
-    "description": "Navbar item with label GitHub"
   },
   "item.label.Blog": {
     "message": "博客",

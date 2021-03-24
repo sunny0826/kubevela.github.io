@@ -1,19 +1,4 @@
 {
-  "is a": {
-    "message": "是一个"
-  },
-  "that show pod-related resource information.": {
-    "message": "用来展示 Pod 相关资源信息。"
-  },
-  "Show pod related resources": {
-    "message": "展示 Pod 相关 K8S 资源"
-  },
-  "One-Cmd Installation": {
-    "message": "一键安装"
-  },
-  "Showcase": {
-    "message": "示例"
-  },
   "theme.NotFound.title": {
     "message": "没有找到该页",
     "description": "The title of the 404 page"
@@ -170,7 +155,37 @@
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
-  "Display Pod-Related Resource": {
-    "message": "展示 Pod 相关 K8S 资源"
+  "as the core API for KubeVela.": {
+    "message": "as the core API for KubeVela."
+  },
+  "as templating engine) to abstract user-facing primitives from Kubernetes API resources. Changes to existing capability templates (or new templates added) take effect at runtime, neither recompilation nor redeployment of KubeVela is required.": {
+    "message": "as templating engine) to abstract user-facing primitives from Kubernetes API resources. Changes to existing capability templates (or new templates added) take effect at runtime, neither recompilation nor redeployment of KubeVela is required."
+  },
+  "What is KubeVela?": {
+    "message": "What is KubeVela?"
+  },
+  "KubeVela enforces an Application abstraction as its main API and ALL KubeVela's capabilities serve for the applications' needs only. This is achieved by adopting the": {
+    "message": "KubeVela enforces an Application abstraction as its main API and ALL KubeVela's capabilities serve for the applications' needs only. This is achieved by adopting the"
+  },
+  "The Application abstraction is implemented with server-side encapsulation controller (supports": {
+    "message": "The Application abstraction is implemented with server-side encapsulation controller (supports"
+  },
+  "and": {
+    "message": "and"
+  },
+  "For platform builders": {
+    "message": "For platform builders"
+  },
+  "KubeVela serves as a framework that empowers them to create user friendly yet highly extensible platforms at ease": {
+    "message": "KubeVela serves as a framework that empowers them to create user friendly yet highly extensible platforms at ease"
+  },
+  "For developers": {
+    "message": "For developers"
+  },
+  "such Application abstraction built with KubeVela will enable them to design and ship their applications to Kubernetes with minimal effort.": {
+    "message": "such Application abstraction built with KubeVela will enable them to design and ship their applications to Kubernetes with minimal effort."
+  },
+  "The Application abstraction is composed of modularized building blocks named components and traits. Any capability provided by Kubernetes ecosystem can be added to KubeVela as new component or trait through simple": {
+    "message": "The Application abstraction is composed of modularized building blocks named components and traits. Any capability provided by Kubernetes ecosystem can be added to KubeVela as new component or trait through simple"
   }
 }

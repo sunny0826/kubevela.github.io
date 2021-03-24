@@ -242,7 +242,7 @@ spec:
 </details>
 
 It's by design that KubeVela supports multiple ways to define the encapsulation. Hence, we will explain this field in detail with following guides.
-- Learn about [CUE](/en/cue/basic) based capability definitions.
-- Learn about [Helm](/en/helm/component) based capability definitions.
+- Learn about [CUE](../using-cue/basic) based capability definitions.
+- Learn about [Helm](../using-helm/component) based capability definitions.
 
 

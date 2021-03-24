@@ -12,7 +12,7 @@ Now let's walk through its experience.
 
 ## Step 1: Install
 
-Make sure you have finished and verified the installation following [this guide](../getting-started/install).
+Make sure you have finished and verified the installation following [this guide](../../getting-started/install).
 
 ## Step 2: Deploy Your First Application
 

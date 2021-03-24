@@ -36,10 +36,10 @@ export default function Home() {
       <header className={clsx('hero', styles.hero)}>
         <div className="container text--center">
           <div className={styles.heroLogoWrapper}>
-            <img className={styles.heroLogo} src={useBaseUrl('img/logo.svg')} alt="Pod Lens Logo" />
+            <img className={styles.heroLogo} src={useBaseUrl('img/logo.svg')} alt="Kubevela Logo" />
           </div>
           <h2 className={clsx('hero__title', styles.heroTitle)}>{siteConfig.title}</h2>
-          <p className="hero__subtitle"><Translate>{siteConfig.tagline}</Translate></p>
+          <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
       </header>
 
@@ -66,12 +66,18 @@ const WhatIs = () => (
     <div className="container">
       <div className="row">
         <div className="col col--6">
-          <h1>What is KubeVela?</h1>
+          <h1><Translate>What is KubeVela?</Translate></h1>
           <p className="hero__subtitle">
             <small>
-              <strong>For platform builders</strong>: KubeVela serves as a framework that empowers them to create user friendly yet highly extensible platforms at ease
+              <strong><Translate>For platform builders</Translate></strong>: 
+              <Translate>
+                KubeVela serves as a framework that empowers them to create user friendly yet highly extensible platforms at ease
+              </Translate>
               <br />
-              <strong>For developers</strong>: such Application abstraction built with KubeVela will enable them to design and ship their applications to Kubernetes with minimal effort.
+              <strong><Translate>For developers</Translate></strong>: 
+              <Translate>
+                such Application abstraction built with KubeVela will enable them to design and ship their applications to Kubernetes with minimal effort.
+              </Translate>
               </small>
           </p>
         </div>

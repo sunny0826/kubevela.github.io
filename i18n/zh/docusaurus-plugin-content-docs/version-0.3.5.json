@@ -1,7 +1,7 @@
 {
   "version.label": {
-    "message": "Next",
-    "description": "The label for version current"
+    "message": "0.3.5",
+    "description": "The label for version 0.3.5"
   },
   "sidebar.docs.category.Overview": {
     "message": "Overview",
