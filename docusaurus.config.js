@@ -112,7 +112,7 @@ module.exports = {
       ],
       copyright: `
         <br />
-        <strong>© KubeVela Authors ${new Date().getFullYear()} | Documentation Distributed under CC-BY-4.0 </strong>
+        <strong>© KubeVela Authors ${new Date().getFullYear()} | Documentation Distributed under <a herf="https://creativecommons.org/licenses/by/4.0">CC-BY-4.0</a> </strong>
         <br />
       `,
     },

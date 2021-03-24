@@ -12,7 +12,7 @@ const features = [
             KubeVela enforces an Application abstraction as its main API and ALL KubeVela's
             capabilities serve for the applications' needs only. This is achieved by adopting
           the </Translate><a href="https://github.com/oam-dev/spec">Open Application Model</a> 
-          <Translate>as the core API for KubeVela.</Translate>
+           <Translate>as the core API for KubeVela.</Translate>
         </p>
       </>
     ),
